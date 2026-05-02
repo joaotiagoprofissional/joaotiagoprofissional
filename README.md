@@ -21,7 +21,6 @@ Foco: Interfaces performáticas, UX e boas práticas de desenvolvimento
     alt="html"
     title="html"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 
@@ -30,7 +29,6 @@ Foco: Interfaces performáticas, UX e boas práticas de desenvolvimento
     alt="css"
     title="css"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 
@@ -39,7 +37,6 @@ Foco: Interfaces performáticas, UX e boas práticas de desenvolvimento
     alt="javascript"
     title="javascript"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
@@ -48,7 +45,6 @@ Foco: Interfaces performáticas, UX e boas práticas de desenvolvimento
     alt="sass"
     title="sass"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
 />
 
@@ -57,7 +53,6 @@ Foco: Interfaces performáticas, UX e boas práticas de desenvolvimento
     alt="bootstrap"
     title="bootstrap"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 />
 
@@ -66,7 +61,6 @@ Foco: Interfaces performáticas, UX e boas práticas de desenvolvimento
     alt="tailwindcss"
     title="tailwindcss"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
 
@@ -75,7 +69,6 @@ Foco: Interfaces performáticas, UX e boas práticas de desenvolvimento
     alt="react"
     title="react"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
 
@@ -84,7 +77,6 @@ Foco: Interfaces performáticas, UX e boas práticas de desenvolvimento
     alt="typescript"
     title="typescript"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
 
@@ -94,6 +86,14 @@ Foco: Interfaces performáticas, UX e boas práticas de desenvolvimento
     title="firebase"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
+/>
+
+<img
+    align="left"
+    alt="firebase"
+    title="firebase"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
           
